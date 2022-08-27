@@ -1,0 +1,6 @@
+{
+    "name": "learning-socket-io",
+    "version": "0.0.1",
+    "description": "First test with socket IO",
+    "dependencies": {}
+}
